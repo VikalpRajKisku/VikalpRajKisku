@@ -15,8 +15,8 @@
 ## Hobbies and Interests 
 - Binge-watching Anime, KDramas, Movies & Tv Shows 🍿
 - Digital Art 🎨 
-- Leaning new Languages 
-## I know it's not enough (*I am still learning*)🧑‍💻
+- Learning new Languages 
+## I know it's not enough🧑‍💻 (*I am still learning*)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,python)
 
 ---
