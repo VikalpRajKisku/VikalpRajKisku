@@ -1,7 +1,35 @@
 ## Hi there 👋, Welcome to my GitHub profile.
 
+---
 
-## As an Artist I use
+## Personal Information
+- **Name:** Vikalp Raj Kisku
+- **Email:** vikalprajkisku@gmail.com
+- **Origin:** Indian
+- **Languages:** Hindi, English, Japanese(learning), Korean(learning), *list will be increasing.*
+
+## Education 🎓
+- **Degree:** Bachelor of Science in Data Science
+- **Institute:** Indian Institute of Technology Madras 
+
+## Hobbies and Interests 
+- Binge-watching Anime, KDramas, Movies & Tv Shows 🍿
+- Digital Art 🎨 
+- Leaning new Languages 
+## I know it's not enough (*I am still learning*)🧑‍💻
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,python)
+
+---
+
+## My Github Stats 📊
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+
+## Part-time Artist 🎨🖌️ 
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -16,7 +44,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-
+<!--
 ## As a Developer I use 
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
@@ -37,7 +65,7 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-
+-->
 
 
 <!--
@@ -54,8 +82,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikalpRajKisku)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### You can Support me here
