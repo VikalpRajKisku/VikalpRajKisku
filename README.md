@@ -26,7 +26,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=5.30)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
