@@ -1,4 +1,4 @@
-## Hi there 👋, Welcome to my GitHub profile.
+## Hello World 👋, Welcome to my GitHub profile.
 
 ---
 
@@ -10,17 +10,18 @@
 
 ## Education 🎓
 - **Degree:** Bachelor of Science in Data Science
-- **Institute:** Indian Institute of Technology Madras 
+- **Institute:** Indian Institute of Technology Madras (2024-2028)
 
 ## Hobbies and Interests 
 - Binge-watching Anime, KDramas, Movies & Tv Shows 🍿
 - Digital Art 🎨 
 - Leaning new Languages 
 ## I know it's not enough (*I am still learning*)🧑‍💻
-[My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,python)
 
 ---
-
+<div align="center">
+  
 ## My Github Stats 📊
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -43,6 +44,7 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+</div>
 
 <!--
 ## As a Developer I use 
