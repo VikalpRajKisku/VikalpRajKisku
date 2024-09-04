@@ -17,7 +17,7 @@
 - Digital Art 🎨 
 - Leaning new Languages 
 ## I know it's not enough (*I am still learning*)🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,python)
+[My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,python)
 
 ---
 
