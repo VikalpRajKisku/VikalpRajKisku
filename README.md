@@ -11,6 +11,11 @@
 
 ---
 
+### Introduction
+Hi, I'm Vikalp Raj Kisku, a passionate data science student at the Indian Institute of Technology Madras. I love exploring new technologies and applying them to solve real-world problems. I'm also a part-time digital artist, creating stunning visuals and designs.
+
+---
+
 ### Education 🎓
 - **Degree:** Bachelor of Science in Data Science  
 - **Institution:** Indian Institute of Technology Madras (2024-2028)
@@ -37,7 +42,7 @@ Here are the technologies I’m comfortable with:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=5.30)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=3)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikalpRajKisku&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -62,3 +67,8 @@ I work with a variety of creative tools:
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ---
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vikalprajkisku/)
+- [Twitter](https://twitter.com/vikalprajkisku)
+- [Personal Website](https://vikalprajkisku.com)
